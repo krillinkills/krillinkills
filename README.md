@@ -27,7 +27,7 @@
     <a target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
     <a  target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a  target="_blank"><img src="https://img.icons8.com/office/48/000000/code.png"/> 
-    
+    <a  target="_blank"><img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
     
 </p>
 
