@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **beingvaibhav858@gmail.com.com**
+- 📫 How to reach me **beingvaibhav858@gmail.com**
 
 - ⚡ Fun fact **I can play you a guitar.**
 
