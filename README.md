@@ -6,15 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Complaint management system with use of AI]**
-
-- 🌱 I’m currently learning **Everything.**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
-
-- 📫 How to reach me **beingvaibhav858@gmail.com**
-
-- ⚡ Fun fact **I can play you a guitar.**
+🔭 I’m currently working on **[Complaint management system with use of AI]**
+🌱 I’m currently learning **Everything.**
+👯 **Love to work on Open-Source Projects**
+📫 How to reach me **beingvaibhav858@gmail.com**
+⚡**Love to read books and explore about space.**
 
 ## 🚀 Languages and Tools:
 
