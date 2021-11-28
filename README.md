@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Android aaplication with use of AI]
+- 🔭 I’m currently working on **[Complaint management system with use of AI]**
 
 - 🌱 I’m currently learning **Everything.**
 
