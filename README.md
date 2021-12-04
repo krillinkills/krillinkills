@@ -15,7 +15,8 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
+    <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
+     <a target="_blank"><img src="https://img.icons8.com/ios/48/000000/flask.png"/></a>
     <a  target="_blank"><img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-deep-learning-artificial-intelligence-becris-flat-becris.png"/></a>
     <a  target="_blank"> <img src="https://img.icons8.com/external-becris-flat-becris/48/000000/external-machine-learning-data-science-becris-flat-becris.png"/></a> 
     <a style="padding-right:8px;" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
