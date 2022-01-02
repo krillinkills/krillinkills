@@ -4,14 +4,6 @@
 <h3 align="center"></h3>
 
 
-## 🙋‍♂️ About Me
-
-🔭 I’m currently working on **[Complaint management system with use of AI]**
-🌱 I’m currently learning **Everything.**
-👯 **Love to work on Open-Source Projects**
-📫 How to reach me **beingvaibhav858@gmail.com**
-⚡**Love to read books and explore about space.**
-
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
