@@ -1,6 +1,4 @@
-<h1 align="center">Hello, I'm Vaibhav</h3>
-
-## 🚀 Languages and Tools:
+![](vaibhav%20cover.JPG)
 
 <p align="left"> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
@@ -14,20 +12,12 @@
     
 </p>
 
+Started loving open source! trying be more active and contributing. Been loving javascrip and Blockchain
+
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
-## 📊 My Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=krillinkills&show_icons=true&theme=radical" width=49%/> <img src="http://github-readme-streak-stats.herokuapp.com?user=krillinkills&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" width=49%/>
-<a href="https://github.com/krillinkills/github-readme-stats"><img alt="Vaibhav Shirpurkar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krillinkills&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-<br/>
-<br/>
-
-## Connect with me:
+## Connect
 
 <p align="left">
 
