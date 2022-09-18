@@ -1,5 +1,3 @@
-![](genre.png)
-
 <p align="left"> 
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/></a>
     <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
